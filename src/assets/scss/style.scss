@@ -1,0 +1,29 @@
+/*============================================ 
+# Template Name: Dooplo
+# Version: 2.0
+# Date: 09/03/2024
+# Author: pixelaxis
+# Author URI: https://themeforest.net/user/pixelaxis
+# Description: Dooplo - Gaming HTML Template
+============================================*/
+
+/*============================================ 
+======== Table of Css Content =========
+# Typography
+# Normalize 
+# Global style
+# Header Area
+# Banner Area
+# Section Area
+# Footer Area
+============================================*/
+
+// Sass Global
+@import 'main/_global.scss';
+
+// Pages
+@import 'pages/_banner-footer.scss';
+@import 'pages/_section.scss';
+
+// Responsive Area
+@import 'main/_responsive.scss';

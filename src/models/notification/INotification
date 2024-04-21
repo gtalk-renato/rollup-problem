@@ -1,0 +1,5 @@
+export type INotification = {
+  id: string
+  message: string | undefined
+  type: string | undefined
+}
